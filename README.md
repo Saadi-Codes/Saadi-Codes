@@ -22,8 +22,7 @@ I'm passionate about tackling real world problems with cohesive knowledge and sk
 - Currently delving deeper into Data Science field.  
 
 ## 🚀 Technologies & Skills  
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); grid-gap: 10px;">
+<!--
 ![C](https://img.shields.io/badge/-C-lightblue?logo=c)
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python)
@@ -40,8 +39,33 @@ I'm passionate about tackling real world problems with cohesive knowledge and sk
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-purple?logo=visualstudio)
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-blue?logo=visualstudio)
 ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux)
-![Assembly Language](https://img.shields.io/badge/-Assembly_Language-gray?logo=visualstudio)
-</div>
+![Assembly Language](https://img.shields.io/badge/-Assembly_Language-gray?logo=visualstudio) -->
+
+### Languages:
+![C](https://img.shields.io/badge/-C-lightblue?logo=c&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&style=for-the-badge)
+![PHP](https://img.shields.io/badge/-PHP-purple?logo=php&style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-orange?logo=java&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&style=for-the-badge)
+
+### Frameworks:
+![Django](https://img.shields.io/badge/-Django-green?logo=django&style=for-the-badge)
+
+### Databases:
+![Oracle SQL](https://img.shields.io/badge/-Oracle_SQL-red?logo=oracle&style=for-the-badge)
+![PL/SQL](https://img.shields.io/badge/-PL/SQL-orange?logo=oracle&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-lightgray?logo=database&style=for-the-badge)
+
+### Tools:
+![Git](https://img.shields.io/badge/-Git-orange?logo=git&style=for-the-badge)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-purple?logo=visualstudio&style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/-VS_Code-blue?logo=visualstudio&style=for-the-badge)
+![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&style=for-the-badge)
+![Assembly Language](https://img.shields.io/badge/-Assembly_Language-gray?logo=visualstudio&style=for-the-badge)
+
 
 
 ### **Languages**  
