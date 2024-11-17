@@ -1,5 +1,5 @@
 <div style=""width: 100%; justify-content: center;">
-    <img src="https://github.com/user-attachments/assets/f1a451aa-689b-4602-933f-431220bb3ad4" alt="Profile Image" style="width: 300px;"/>
+    <img src="https://github.com/user-attachments/assets/f1a451aa-689b-4602-933f-431220bb3ad4" alt="Profile Image" style="width: 800px;"/>
 </div>
 
 <h1 align="center">
