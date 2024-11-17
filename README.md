@@ -22,24 +22,6 @@ I'm passionate about tackling real world problems with cohesive knowledge and sk
 - Currently delving deeper into Data Science field.  
 
 ## 🚀 Technologies & Skills  
-<!--
-![C](https://img.shields.io/badge/-C-lightblue?logo=c)
-![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-blue?logo=python)
-![Django](https://img.shields.io/badge/-Django-green?logo=django)
-![Oracle SQL](https://img.shields.io/badge/-Oracle_SQL-red?logo=oracle)
-![PHP](https://img.shields.io/badge/-PHP-purple?logo=php)
-![PL/SQL](https://img.shields.io/badge/-PL/SQL-orange?logo=oracle)
-![SQL](https://img.shields.io/badge/-SQL-lightgray?logo=database)
-![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3)
-![Git](https://img.shields.io/badge/-Git-orange?logo=git)
-![Java](https://img.shields.io/badge/-Java-orange?logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-purple?logo=visualstudio)
-![Visual Studio Code](https://img.shields.io/badge/-VS_Code-blue?logo=visualstudio)
-![Linux](https://img.shields.io/badge/-Linux-black?logo=linux)
-![Assembly Language](https://img.shields.io/badge/-Assembly_Language-gray?logo=visualstudio) -->
 
 ### Languages:
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="30"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="30"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="30"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="30"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="30"/> 
@@ -61,9 +43,8 @@ I'm passionate about tackling real world problems with cohesive knowledge and sk
 
 ## 🌐 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/saad-ahmed-668372261)
-[![Discord](https://img.shields.io/badge/Discord-blue?logo=discord)](https://discord.com/channels/@me)
-[![YouTube](https://img.shields.io/badge/-YouTube-red?logo=youtube)](https://www.youtube.com/@saadahmed7824)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>](https://www.linkedin.com/in/saad-ahmed-668372261) [<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="30"/>](https://discord.com/channels/@me) [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="30"/>](https://www.youtube.com/@saadahmed7824)
+
 
 Feel free to reach out for collaboration or to discuss exciting project ideas!  
 
