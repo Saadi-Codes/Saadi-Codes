@@ -1,7 +1,6 @@
-<div style="display: flex; justify-content: center;">
+<div style=""width: 100%; justify-content: center;">
     <img src="https://github.com/user-attachments/assets/f1a451aa-689b-4602-933f-431220bb3ad4" alt="Profile Image" style="width: 300px;"/>
 </div>
-
 
 <h1 align="center">
   ## Hi there 👋 I'm Saad Ahmed aka <em>Saadi</em>
