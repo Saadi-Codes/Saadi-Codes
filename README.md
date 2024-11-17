@@ -1,11 +1,8 @@
 <div style="text-align: center;">
-  <a href="https://app.daily.dev/saadahmed22">
-    <img src="https://api.daily.dev/devcards/v2/VIEIZuFntuXb6su7nTg8M.png?type=default&r=ycn" width="356" alt="Saad Ahmed's Dev Card"/>
+  <a href="https://your-link-here">
+    <img src="https://github.com/user-attachments/assets/f1a451aa-689b-4602-933f-431220bb3ad4" alt="Profile Image" width="200"/>
   </a>
 </div>
-
-
-![Profile Image](https://github.com/user-attachments/assets/f1a451aa-689b-4602-933f-431220bb3ad4)
 
 <h1 align="center">
   ## Hi there 👋 I'm Saad Ahmed aka <em>Saadi</em>
