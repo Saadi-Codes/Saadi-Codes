@@ -42,29 +42,30 @@ I'm passionate about tackling real world problems with cohesive knowledge and sk
 ![Assembly Language](https://img.shields.io/badge/-Assembly_Language-gray?logo=visualstudio) -->
 
 ### Languages:
-![C](https://img.shields.io/badge/-C-lightblue?logo=c&style=for-the-badge)
-![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&style=for-the-badge)
-![PHP](https://img.shields.io/badge/-PHP-purple?logo=php&style=for-the-badge)
-![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-orange?logo=java&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&style=for-the-badge)
+![C](https://img.shields.io/badge/-C-lightblue?logo=c&style=flat-square)
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&style=flat-square)
+![PHP](https://img.shields.io/badge/-PHP-purple?logo=php&style=flat-square)
+![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&style=flat-square)
+![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&style=flat-square)
+![Java](https://img.shields.io/badge/-Java-orange?logo=java&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&style=flat-square)
 
 ### Frameworks:
-![Django](https://img.shields.io/badge/-Django-green?logo=django&style=for-the-badge)
+![Django](https://img.shields.io/badge/-Django-green?logo=django&style=flat-square)
 
 ### Databases:
-![Oracle SQL](https://img.shields.io/badge/-Oracle_SQL-red?logo=oracle&style=for-the-badge)
-![PL/SQL](https://img.shields.io/badge/-PL/SQL-orange?logo=oracle&style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-lightgray?logo=database&style=for-the-badge)
+![Oracle SQL](https://img.shields.io/badge/-Oracle_SQL-red?logo=oracle&style=flat-square)
+![PL/SQL](https://img.shields.io/badge/-PL/SQL-orange?logo=oracle&style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-lightgray?logo=database&style=flat-square)
 
 ### Tools:
-![Git](https://img.shields.io/badge/-Git-orange?logo=git&style=for-the-badge)
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-purple?logo=visualstudio&style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/-VS_Code-blue?logo=visualstudio&style=for-the-badge)
-![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&style=for-the-badge)
-![Assembly Language](https://img.shields.io/badge/-Assembly_Language-gray?logo=visualstudio&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-orange?logo=git&style=flat-square)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-purple?logo=visualstudio&style=flat-square)
+![Visual Studio Code](https://img.shields.io/badge/-VS_Code-blue?logo=visualstudio&style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&style=flat-square)
+![Assembly Language](https://img.shields.io/badge/-Assembly_Language-gray?logo=visualstudio&style=flat-square)
+
 
 
 
