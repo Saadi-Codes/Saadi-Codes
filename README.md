@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  ## Hi there 👋 I'm Saad Ahmed aka <em>Saadi</em>
+  Hi there 👋 I'm Saad Ahmed aka <em>Saadi</em>
 </h1>
 
 <h3 align="center">
