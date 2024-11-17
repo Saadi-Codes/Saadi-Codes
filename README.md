@@ -48,7 +48,11 @@ I'm passionate about tackling real world problems with cohesive knowledge and sk
 
 Feel free to reach out for collaboration or to discuss exciting project ideas!  
 
-[![My Daily.dev Card](https://api.daily.dev/devcards/v2/VIEIZuFntuXb6su7nTg8M.png?type=default&r=ycn)](https://app.daily.dev/saadahmed22)
+### My Daily.dev Card:
+<a href="https://app.daily.dev/saadahmed22">
+    <img src="https://api.daily.dev/devcards/v2/VIEIZuFntuXb6su7nTg8M.png?type=default&r=ycn" alt="My Daily.dev Card" width="250" height="auto"/>
+</a>
+
 
 
 
