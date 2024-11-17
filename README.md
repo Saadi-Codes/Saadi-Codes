@@ -1,6 +1,6 @@
 <div style="text-align: center;">
   <a href="https://your-link-here">
-    <img src="https://github.com/user-attachments/assets/f1a451aa-689b-4602-933f-431220bb3ad4" alt="Profile Image" width="200"/>
+    <img src="https://github.com/user-attachments/assets/f1a451aa-689b-4602-933f-431220bb3ad4" alt="Profile Image" width="400"/>
   </a>
 </div>
 
