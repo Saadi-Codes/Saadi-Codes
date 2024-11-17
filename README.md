@@ -41,6 +41,11 @@ I'm passionate about tackling real world problems with cohesive knowledge and sk
 ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux)
 ![Assembly Language](https://img.shields.io/badge/-Assembly_Language-gray?logo=visualstudio)
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Vimlogo.svg" alt="Vim Logo" width="150">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Studio_Logo.svg" alt="Visual Studio Logo" width="150">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code Logo" width="150">
+
+
 ### **Languages**  
 - C
 - C++  
