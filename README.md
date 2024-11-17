@@ -6,11 +6,12 @@
 <h1 align="center">
   ## Hi there 👋 I'm Saad Ahmed aka <em>Saadi</em>
 </h1>
----
+
 <h3 align="center">
 An Inquisitive Computer Scientist
 </h3>
 
+---
 # 🌟 Welcome to My GitHub Profile  
 
 I'm passionate about tackling real world problems with cohesive knowledge and skills. With a knack for tackling complex problems, I continually explore new ways to push the boundaries of technology.
